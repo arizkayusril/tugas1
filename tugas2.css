@@ -1,0 +1,27 @@
+body{
+    background: url(jjj.jpg) rgba(94, 92, 93, 0.4);
+    background-blend-mode: multiply;
+    background-size:cover;
+font-family:Raleway,Open Sans,Droid Sans,arial,sans-serif;
+}
+.az{
+    width:600px;
+    height:200px;
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    margin:auto;
+    text-align:center;
+    
+    }
+    h1,h2{
+        color: aliceblue;
+        
+    }
+    a{
+        font-size: 20px;
+        color: aliceblue;
+        text-decoration: none;
+    }
